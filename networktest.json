@@ -1,0 +1,7 @@
+{ 
+    "networkcheck": [
+      {
+        "networkconnected": true
+      }
+    ]
+}
