@@ -3,7 +3,7 @@
       {
         "id": 1,
         "version": "3.0.4"
-        "downtimeenabled": "true"
+        "downtimeenabled": "yes"
       },
     ]
   }
